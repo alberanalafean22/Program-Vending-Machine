@@ -1,4 +1,4 @@
-# Program-Vending-Machine
+# TUGASBESAR_PKS2
 #include <iostream>   
 using namespace std; 
 int main(){          
